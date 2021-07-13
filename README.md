@@ -1,2 +1,0 @@
-# JavaPracticalQuestions_ParulMaam
-Practical List Questions
